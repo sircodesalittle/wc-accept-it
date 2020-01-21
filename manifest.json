@@ -10,8 +10,7 @@
     "persistent": false
   },
   "permissions": [
-    "activeTab",
-    "<all_urls>"
+    "activeTab"
   ],
   "commands": {
     "toggle-feature": {
